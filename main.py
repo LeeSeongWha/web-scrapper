@@ -6,6 +6,8 @@ from file import save_to_file
 
 app = Flask("JobScrapper")
 
+
+# fake database
 db = {}
 
 
